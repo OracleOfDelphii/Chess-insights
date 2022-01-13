@@ -41,7 +41,11 @@ Currently i have written a nice little CLI for the app, and GUI will come later 
 
 chess.com Python wrapper: [link](https://github.com/sarartur/chess.com)
 
-![panel](/screenshots/1.jpg?raw=true)
-![panel](/screenshots/2.jpg?raw=true)
-![panel](/screenshots/3.jpg?raw=true)
-![panel](/screenshots/4.jpg?raw=true)
+
+## Screenshots:
+
+
+![panel](/screenshots/1.jpg?raw=true | width=100)
+![panel](/screenshots/2.jpg?raw=true | width=100)
+![panel](/screenshots/3.jpg?raw=true | width=100)
+![panel](/screenshots/4.jpg?raw=true | width=100)
