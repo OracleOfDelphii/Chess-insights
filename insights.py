@@ -1,6 +1,7 @@
 from chessdotcom import  get_player_profile, Client
 from chessdotcom.aio import get_player_profile, Client
 import pathlib
+import matplotlib
 import requests
 import pycountry
 from datetime import datetime
@@ -25,6 +26,8 @@ import time
 # a method to get country name based on alpha_2 code of countries
 # Chess.com has defined special codes for countries that are not
 # in the ISO 3166-1 alpha_2 standard, those countires are listed in special_codes
+
+
 
 def get_country_name(player):
     special_codes = {'XA': 'Canary Islands',
