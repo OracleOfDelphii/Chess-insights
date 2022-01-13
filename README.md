@@ -45,7 +45,7 @@ chess.com Python wrapper: [link](https://github.com/sarartur/chess.com)
 ## Screenshots:
 
 
-![panel](/screenshots/1.jpg?raw=true | width=100)
-![panel](/screenshots/2.jpg?raw=true | width=100)
-![panel](/screenshots/3.jpg?raw=true | width=100)
-![panel](/screenshots/4.jpg?raw=true | width=100)
+<img src="/screenshots/1.jpg?raw=true" width="100" height="200" />
+<img src="/screenshots/2.jpg?raw=true" width="100" height="200" />
+<img src="/screenshots/3.jpg?raw=true" width="100" height="200" />
+<img src="/screenshots/4.jpg?raw=true" width="100" height="200" />
