@@ -40,7 +40,7 @@ Currently i have written a nice little CLI for the app, and GUI will come later 
 ## Packages used:
 
 chess.com Python wrapper: [link](https://github.com/sarartur/chess.com)
-
+python-chess: [link](https://python-chess.readthedocs.io/en/latest/)
 
 ## Screenshots:
 
