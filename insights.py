@@ -259,11 +259,6 @@ if __name__  == "__main__":
 
         pp = pprint.PrettyPrinter(width=41, compact=True)
         game = chess.pgn.read_game(pgn)
-        # is there a better way to count moves?
-
-        moves = ceil(cardinality.count(game.mainline_moves()) / 2)
-        if moves < 1:
-            continue
 
         if game.headers.get('ECOUrl'):
         
