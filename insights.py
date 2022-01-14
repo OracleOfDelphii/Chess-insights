@@ -46,6 +46,10 @@ def get_country_name(player):
 def filtered_games(games, **kwargs):
     filtered_games = []
     for game in games.get('games'):
+        # some games have no moves, and have no pgn, so we skip them.
+        
+        if game.get('pgn') is None:
+            continue
         pgn = io.StringIO(game['pgn'])
         moves = ceil(cardinality.count(chess.pgn.read_game(pgn).mainline_moves()) / 2)
 
