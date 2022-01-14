@@ -48,5 +48,5 @@ python-chess: [link](https://python-chess.readthedocs.io/en/latest/)
 <img   src="/screenshots/1.jpg?raw=true" width="400"   height="300"/>
 <img    src="/screenshots/2.jpg?raw=true" width="400"  height="300" />
 <img   src="/screenshots/3.jpg?raw=true" width="400"  height="600"/>
-<img     src="/screenshots/4.jpg?raw=true" width="400"  height="800"   />
+<img     src="/screenshots/4.jpg?raw=true" width="800"  height="300"   />
 </p>
